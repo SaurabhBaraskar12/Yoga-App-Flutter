@@ -1,0 +1,38 @@
+name: saurabhflutter
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - gym1.jpg
+    - login_img.jpg
+    - first.jpg
+    - second.jpg
+    - third.jpg
+    - 1yo.png
+    - 2yo.png
+    - 3yo.png
+    - beg1.jpg
+    - beg2.jpg
+    - beg3.jpg
+    - inter1.jpg
+    - inter2.jpg
+    - inter3.jpg
+    - adv1.jpg
+    - adv2.jpg
+    - adv3.jpg
+    - hostory2yoga.jpg    
